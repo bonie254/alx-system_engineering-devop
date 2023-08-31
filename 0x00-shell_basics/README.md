@@ -1,1 +1,1 @@
-mysecond readme
+ this is the contents of directory
